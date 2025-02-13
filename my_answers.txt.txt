@@ -1,2 +1,4 @@
 my_answers.txt
-i am 18
+
+I am Lan Anh
+>>>>>>> b3a3f56701d8bbc409d8502473cfc1fe9227d2ad
